@@ -4,7 +4,7 @@ XKB layout for Czech Apple keyboard:
 ![Czech Apple keyboard layout](https://support.apple.com/library/content/dam/edam/applecare/images/cs_CZ/keyboards/czech_notebook.png "Czech Apple keyboard layout")
 
 
-## Installation
+## How to use
 Replace the default Czech layout with the modified one:
 ```
 sudo cp <path/to/file>cz usr/share/X11/xkb/symbols/
