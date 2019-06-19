@@ -7,7 +7,7 @@ XKB layout for Czech Apple keyboard:
 ## How to use
 Replace the default Czech layout with the modified one:
 ```
-sudo cp <path/to/file>cz usr/share/X11/xkb/symbols/
+sudo cp <path/to/file>cz /usr/share/X11/xkb/symbols/
 ```
 
 
