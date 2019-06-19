@@ -54,7 +54,7 @@ xkb_symbols "apple"
 	key <AE10> { [         eacute,           KP_0,     braceright, dead_doubleacute ] }; // é 0 } D˝ 
 	key <AE11> { [          equal,        percent,         degree, dead_diaeresis ] }; // = % ° D¨ 
 	key <AE12> { [     dead_acute,     dead_caron,    asciicircum,   dead_cedilla ] }; // D´ Dˇ ^ D¸ 
-	key <BKSL> { [ dead_diaeresis,     apostrophe,      backslash,            bar ] }; // D¨ ' \ | 
+	key <BKSL> { [ dead_diaeresis,      quoteleft,      backslash,            bar ] }; // D¨ ` \ | 
 	key <LSGT> { [      backslash,            bar,          slash                 ] }; // \ | / 
 	key <TLDE> { [      leftcaret,     rightcaret,          grave,     asciitilde ] }; // < > ` ~ 
 };
