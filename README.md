@@ -25,3 +25,6 @@ XKB layout for Czech Apple keyboard:
       </variant>
       ```
 3. Activate the layout in your keyboard settings.
+
+## Limitations
+This keyboard layout does not affect modifier keys (Function, Control, Option/Alt, Command/Super). 
