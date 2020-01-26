@@ -2836,10 +2836,10 @@
             <description>Czech (US, Dvorak, UCW support)</description>
           </configItem>
         </variant>
-	<variant>
+        <variant>
           <configItem>
-            <name>apple</name>
-            <description>Czech (Apple layout)</description>
+            <name>qwertz-mac</name>
+            <description>Czech (Apple QWERTZ)</description>
           </configItem>
         </variant>
         <variant>
